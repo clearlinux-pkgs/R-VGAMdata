@@ -4,7 +4,7 @@
 #
 Name     : R-VGAMdata
 Version  : 1.0.3
-Release  : 23
+Release  : 24
 URL      : https://cran.r-project.org/src/contrib/VGAMdata_1.0-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/VGAMdata_1.0-3.tar.gz
 Summary  : Data Supporting the 'VGAM' Package
